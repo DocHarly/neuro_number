@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, Verdana,  sans-serif;
+  font-size: 11pt;
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+canvas {
+  background-color: #fff;
+  margin-bottom: 20px;
+}
+
+div.toolbar > span {
+  display: block;
+  margin-bottom: 5px;
+}
